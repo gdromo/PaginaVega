@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'muni-icons';
+  src:  url('fonts/muni-icons.eot?u9h3u1');
+  src:  url('fonts/muni-icons.eot?u9h3u1#iefix') format('embedded-opentype'),
+    url('fonts/muni-icons.ttf?u9h3u1') format('truetype'),
+    url('fonts/muni-icons.woff?u9h3u1') format('woff'),
+    url('fonts/muni-icons.svg?u9h3u1#muni-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'muni-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-file-json:before {
+  content: "\e90b";
+}
+.icon-brain:before {
+  content: "\e905";
+}
+.icon-cloud-computing:before {
+  content: "\e906";
+}
+.icon-envelope:before {
+  content: "\e907";
+}
+.icon-clip:before {
+  content: "\e908";
+}
+.icon-stacked-files:before {
+  content: "\e909";
+}
+.icon-file:before {
+  content: "\e904";
+}
+.icon-file-csv:before {
+  content: "\e900";
+}
+.icon-file-xls:before {
+  content: "\e901";
+}
+.icon-file-xlsx:before {
+  content: "\e902";
+}
+.icon-file-pdf:before {
+  content: "\e903";
+}
+.icon-file-image:before, 
+.icon-file-png:before,
+.icon-file-jpg:before,
+.icon-file-jpeg:before{
+  content: "\e90e";
+}
+.icon-file-viz:before {
+  content: "\e90d";
+}
+.icon-file-txt:before,
+.icon-file-text:before {
+  content: "\e90c";
+}
+.icon-file-doc:before,
+.icon-file-docx:before,
+.icon-file-word:before {
+  content: "\e90a";
+}
+.icon-file-link:before {
+  content: "\e9cb";
+}
+.icon-file-map:before {
+  content: "\e947";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-file-web:before {
+  content: "\e9c9";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+
